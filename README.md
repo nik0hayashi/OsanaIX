@@ -1,5 +1,5 @@
-# osana3ds
-Osana 3ds File Index Search! ⋆. 𐙚 ˚
+# osanaIX
+Osana File Index Search! ⋆. 𐙚 ˚
 
 Made by Niko Hayashi, Osana Sasaki and the OsanaCodeTeam! ⋆. 𐙚 ˚
 
